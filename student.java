@@ -1,4 +1,4 @@
-package org.student;
+package week3day1;
 
 public class student {
 
